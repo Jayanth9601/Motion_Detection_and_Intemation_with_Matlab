@@ -1,0 +1,28 @@
+
+Location: Home
+
+Started
+  Date: 27/11/2021
+  Time: 11:21:52
+  Starting Frame No: 36
+
+Ended
+  Date: 27/11/2021
+  Time: 11:23:9
+  Starting Frame No: 147
+
+Duration of motion(1): 0:2:43
+
+Location: Home
+
+Started
+  Date: 27/11/2021
+  Time: 11:23:13
+  Starting Frame No: 218
+
+Ended
+  Date: 27/11/2021
+  Time: 11:23:19
+  Starting Frame No: 348
+
+Duration of motion(2): 0:0:6
